@@ -1,16 +1,107 @@
-# React + Vite
+# TechNova React Layout
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern landing page interface built using React.js and Vite.  
+This project demonstrates React functional components, JSX syntax, and component-based UI structure.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+ [View My Portfolio Website] https://sehrish-web209.github.io/react-layout/
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React functional components
+- JSX syntax implementation
+- Component-based UI structure
+- Multiple UI section rendering
+- Vite-powered development environment
 
-## Expanding the ESLint configuration
+## Sections
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project contains the following sections:
+
+- Navbar
+- Hero Section
+- Services Section
+- Footer
+
+## Technologies Used
+
+- React.js
+- Vite
+- JavaScript
+- JSX
+- HTML
+
+## Project Structure
+
+```
+technova-react-layout/
+│
+├── src/
+│   ├── assets/
+│   │   └── services-image.png
+│   │
+│   ├── main.jsx
+│   ├── App.jsx
+│   └── index.css
+│
+├── public/
+│
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+```
+
+## Installation & Setup
+
+Follow these steps to run the project locally.
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Sehrish-web209/react-layout.git
+```
+
+### Navigate to the project directory
+
+```bash
+cd technova-react-layout
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start the development server
+
+```bash
+npm run dev
+```
+
+The project will run on the local development server provided by Vite.
+
+## Learning Outcomes
+
+Through this project, I explored:
+
+- Creating React functional components
+- Writing JSX syntax
+- Understanding React rendering
+- Structuring a Vite React application
+- Working with multiple UI sections
+
+## Future Improvements
+
+- Add responsive styling with CSS
+- Improve navigation layout
+- Create a more interactive user interface
+- Add animations and modern UI effects
+- Deploy the project using GitHub Pages
+
+## Author
+
+Sehrish Maqbool
+BS IT Student 
