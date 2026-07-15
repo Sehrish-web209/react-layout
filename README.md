@@ -5,7 +5,7 @@ This project demonstrates React functional components, JSX syntax, and component
 
 ## Live Demo
 
- [View My Portfolio Website](https://sehrish-web209.github.io/react-layout/)
+ [View My TechNova React Layout Project](https://sehrish-web209.github.io/react-layout/)
 
 ## Features
 
